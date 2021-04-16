@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VChat-iOS", "VChat-iOS\VChat-iOS.csproj", "{BCFA192E-B6A1-49CC-A393-FACEE459710C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Release|iPhone.Build.0 = Release|iPhone
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Release|iPhone.Deploy.0 = Release|iPhone
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BCFA192E-B6A1-49CC-A393-FACEE459710C}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08D0FC6-1C3A-42C0-ABA1-C39D72EA855D}
+	EndGlobalSection
+EndGlobal
